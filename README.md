@@ -23,9 +23,6 @@ Comecei aprofundar meus estudos com o progama Vai na Web e no momento estou apre
 *Vocês vão ver muito por aqui meus pequenos e grandes projetos do curso e acompanhar meu desenvolvimento, espero que gostem.*
 
 
-# See you, bye. 👋🏻
-
-
 <div align="center">
   
 ![giphy](https://64.media.tumblr.com/f6bdb77c524568ce6e5165165b660dfa/tumblr_n0nbg20mYm1ql5yr7o2_250.gifv)
