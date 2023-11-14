@@ -1,6 +1,7 @@
-![paes (2)](https://user-images.githubusercontent.com/113450612/235276321-6c949cda-7631-425c-855b-e0a6bfe8c64a.png)
 
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/113450612/235276321-6c949cda-7631-425c-855b-e0a6bfe8c64a.png" width="700px"/> 
+</div>
 
 
 <h1 align="center">Hi there, Karina Paes aqui! 👋</h1>
