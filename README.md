@@ -20,4 +20,9 @@ Entre bugs e muita raiva, vou me apaixonando mais a cada dia e a cada desafio. �
 
 Comecei aprofundar meus estudos com o Bootcamp da DIO e estou aprendo Python ✅
 
+## Conecte-se comigo 
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaakpaes) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaakpaes/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=)](mailto:kspaees@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/karinapaees/)
+
 *Vocês vão ver muito por aqui meus pequenos e grandes projetos do curso e acompanhar meu desenvolvimento, espero que gostem.*
